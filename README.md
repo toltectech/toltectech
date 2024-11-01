@@ -1,6 +1,6 @@
-<h1>Hi, I'm Marychu! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="[https://www.linkedin.com/in/marychu-vargas]">Cybersecurity Professional</a>,</h1>
+<h1>Hi, I'm Marychu! <br/><a href="[https://github.com/toltectech]">Programmer</a>, <a href="[https://www.linkedin.com/in/marychu-vargas]">Cybersecurity Professional</a>,</h1>
 
-<h2>👨‍💻CyberSecuirty:</h2>
+<h2>👨‍💻CyberSecurity:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
